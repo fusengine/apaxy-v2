@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>video</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="video">
+            <g id="Group-2" transform="translate(1.000000, 1.000000)">
+                <rect id="Rectangle" fill="#D8D8D8" x="1.38461538" y="0" width="11.0769231" height="14"></rect>
+                <g id="Group">
+                    <rect id="Rectangle" fill="#494949" x="0" y="0" width="1.38461538" height="14"></rect>
+                    <rect id="Rectangle" fill="#494949" x="2.76923077" y="0" width="1.38461538" height="14"></rect>
+                    <rect id="Rectangle" fill="#494949" x="1.38461538" y="0" width="1.38461538" height="14"></rect>
+                    <rect id="Rectangle-2" fill="#FFFFFF" x="1.38461538" y="1.4" width="1.38461538" height="1.4"></rect>
+                    <rect id="Rectangle-2" fill="#FFFFFF" x="1.38461538" y="4.2" width="1.38461538" height="1.4"></rect>
+                    <rect id="Rectangle-2" fill="#FFFFFF" x="1.38461538" y="7" width="1.38461538" height="1.4"></rect>
+                    <rect id="Rectangle-2" fill="#FFFFFF" x="1.38461538" y="9.8" width="1.38461538" height="1.4"></rect>
+                    <rect id="Rectangle-2" fill="#FFFFFF" x="1.38461538" y="12.6" width="1.38461538" height="1.4"></rect>
+                </g>
+                <g id="Group" transform="translate(9.692308, 0.000000)">
+                    <rect id="Rectangle" fill="#494949" x="0" y="0" width="1.38461538" height="14"></rect>
+                    <rect id="Rectangle" fill="#494949" x="2.76923077" y="0" width="1.38461538" height="14"></rect>
+                    <rect id="Rectangle" fill="#494949" x="1.38461538" y="0" width="1.38461538" height="14"></rect>
+                    <rect id="Rectangle-2" fill="#FFFFFF" x="1.38461538" y="1.4" width="1.38461538" height="1.4"></rect>
+                    <rect id="Rectangle-2" fill="#FFFFFF" x="1.38461538" y="4.2" width="1.38461538" height="1.4"></rect>
+                    <rect id="Rectangle-2" fill="#FFFFFF" x="1.38461538" y="7" width="1.38461538" height="1.4"></rect>
+                    <rect id="Rectangle-2" fill="#FFFFFF" x="1.38461538" y="9.8" width="1.38461538" height="1.4"></rect>
+                    <rect id="Rectangle-2" fill="#FFFFFF" x="1.38461538" y="12.6" width="1.38461538" height="1.4"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

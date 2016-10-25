@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>draw</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="2.95903865" y="7.27705814" width="10" height="1"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="10" height="1" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="draw">
+            <g id="Group" transform="translate(2.000000, 1.000000)">
+                <polygon id="Rectangle" fill="#E3E3E3" points="0 0 9.85464471 0 12 2.23245162 12 14 0 14"></polygon>
+                <polygon id="Triangle" fill="#B6B6B6" points="9.85040245 0.0338631498 11.9769074 2.21134718 9.85040245 2.21134718"></polygon>
+            </g>
+            <path d="M10.9446044,5.85076275 C9.95302279,2.53081876 3.93950017,3.32233174 5.64162599,8 C6.23304876,9.62530845 9.4805644,9.15861095 9.93211979,10.8634585 C10.0866135,11.4467495 8.41916505,12.567526 7.39181881,12.7384691 C6.69634202,12.8541914 5.8570923,11.4454921 5.64162599,11.7479559" id="Path-2" stroke="#4990E2"></path>
+            <use id="Rectangle-5" stroke="#D6374D" mask="url(#mask-2)" stroke-width="2" transform="translate(7.959039, 7.777058) rotate(-345.000000) translate(-7.959039, -7.777058) " xlink:href="#path-1"></use>
+            <g id="Group" transform="translate(1.000000, 2.000000)"></g>
+        </g>
+    </g>
+</svg>

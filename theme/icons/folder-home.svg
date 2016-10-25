@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="16px" viewBox="0 0 17 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>folder-home</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="1" width="15" height="13" rx="1"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="15" height="13" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="folder-home">
+            <g id="Group" transform="translate(1.000000, 1.000000)">
+                <rect id="Rectangle" fill="#2B6EBB" x="1" y="0" width="7.5" height="3" rx="1"></rect>
+                <use id="Rectangle" stroke="#4A92E6" mask="url(#mask-2)" stroke-width="2" fill="#4990E2" xlink:href="#path-1"></use>
+            </g>
+            <rect id="Rectangle-9" fill="#0F498D" x="6" y="7" width="5" height="5"></rect>
+            <polygon id="Triangle" fill="#104A8D" points="8.5 4 13 9 4 9"></polygon>
+        </g>
+    </g>
+</svg>

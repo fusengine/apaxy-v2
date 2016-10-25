@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>script</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="14" height="14" rx="1"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="14" height="14" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="script">
+            <g id="Group" transform="translate(1.000000, 1.000000)">
+                <use id="Rectangle" stroke="#7ED321" mask="url(#mask-2)" stroke-width="2" fill="#2F363E" xlink:href="#path-1"></use>
+                <path d="M6.269,6.51215385 L3.231,8.17815385 L3.231,7.20569231 L5.31,6.09753846 L3.238,4.98938462 L3.231,4.02446154 L6.269,5.69046154 L6.269,6.51215385 Z M6.5,9.84415385 L6.5,8.96215385 L10,8.96215385 L10,9.84415385 L6.5,9.84415385 Z" id="&gt;_" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

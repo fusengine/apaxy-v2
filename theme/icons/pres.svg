@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>pres</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="pres">
+            <g id="Group" transform="translate(2.000000, 0.000000)">
+                <polygon id="Rectangle" fill="#ECF9FF" points="0 1 9.85464471 1 12 3.23245162 12 15 0 15"></polygon>
+                <polygon id="Rectangle" fill="#F6A623" points="0.0282822107 0.967169152 9.83360021 0.967169152 12.0191867 3.2531118 12.0191867 5.02537596 0.0282822107 5.02537596"></polygon>
+                <polygon id="Triangle" fill="#C07E11" points="9.85040245 1.03386315 11.9769074 3.21134718 9.85040245 3.21134718"></polygon>
+            </g>
+            <g id="Group-3" transform="translate(3.000000, 6.000000)" fill="#737373">
+                <g id="Group">
+                    <rect id="Rectangle" x="0" y="-1.26882631e-16" width="7" height="1" rx="0.5"></rect>
+                    <rect id="Rectangle" x="0" y="2" width="6" height="1" rx="0.5"></rect>
+                    <rect id="Rectangle" x="0" y="4" width="4" height="1" rx="0.5"></rect>
+                    <rect id="Rectangle" x="0" y="7" width="7" height="1" rx="0.5"></rect>
+                </g>
+            </g>
+            <path d="M10,14 C10.7941091,14 11.8272563,13.7673841 12.3638964,13.049687 C12.9469191,12.2699583 13,11 13,11 L10,11 L10,8 C10,8 8.60566767,8 7.90198574,8.78711634 C7.19830382,9.57423268 7,10.1594902 7,11 C7,12.6568542 8.34314575,14 10,14 Z" id="Oval-4" fill="#F6A623"></path>
+        </g>
+    </g>
+</svg>

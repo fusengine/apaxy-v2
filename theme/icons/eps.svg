@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>eps</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="1" y="2" width="14" height="13" rx="1"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="14" height="13" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="eps">
+            <use id="Rectangle" stroke="#F6A623" mask="url(#mask-2)" stroke-width="2" fill="#434343" xlink:href="#path-1"></use>
+            <path d="M5.40625,7.22265625 L4.86328125,9.609375 L5.953125,9.609375 L5.40625,7.22265625 Z M4.703125,6.16796875 L6.11328125,6.16796875 L7.6875,12 L6.53515625,12 L6.17578125,10.5585938 L4.6328125,10.5585938 L4.28125,12 L3.12890625,12 L4.703125,6.16796875 Z M8.6796875,7.625 L10.9453125,7.625 L10.9453125,11.1210938 L12.3671875,11.1210938 L12.3671875,12 L8.375,12 L8.375,11.1210938 L9.80078125,11.1210938 L9.80078125,8.50390625 L8.6796875,8.50390625 L8.6796875,7.625 Z M9.80078125,5.49609375 L10.9453125,5.49609375 L10.9453125,6.83203125 L9.80078125,6.83203125 L9.80078125,5.49609375 Z" id="Ai" fill="#F5A623"></path>
+            <g id="Group" transform="translate(1.000000, 2.000000)"></g>
+        </g>
+    </g>
+</svg>

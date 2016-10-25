@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>gzip</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="1" y="11.8461538" width="12" height="1.07692308"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12" height="1.07692308" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect id="path-3" x="1" y="9.69230769" width="12" height="1.07692308"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12" height="1.07692308" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <rect id="path-5" x="1" y="7.53846154" width="12" height="1.07692308"></rect>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12" height="1.07692308" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="gzip">
+            <g id="Group" transform="translate(1.000000, 1.000000)">
+                <rect id="Rectangle" fill="#C1C1C1" x="0" y="0" width="14" height="14" rx="1"></rect>
+                <use id="Rectangle-2" stroke="#979797" mask="url(#mask-2)" stroke-width="2" fill="#D8D8D8" xlink:href="#path-1"></use>
+                <use id="Rectangle-2" stroke="#979797" mask="url(#mask-4)" stroke-width="2" fill="#D8D8D8" xlink:href="#path-3"></use>
+                <use id="Rectangle-2" stroke="#979797" mask="url(#mask-6)" stroke-width="2" fill="#D8D8D8" xlink:href="#path-5"></use>
+                <rect id="Rectangle" fill="#3E3E3E" x="7" y="0" width="3" height="14"></rect>
+                <rect id="Path" fill="#F4F4F4" x="8" y="12.9230769" width="1" height="1.07692308"></rect>
+                <rect id="Path" fill="#F4F4F4" x="8" y="4.30769231" width="1" height="1.07692308"></rect>
+                <rect id="Path" fill="#B1B1B1" x="8" y="2.15384615" width="1" height="2.15384615"></rect>
+                <polygon id="Path" fill="#B1B1B1" transform="translate(9.407312, 2.060337) rotate(25.000000) translate(-9.407312, -2.060337) " points="9.06748614 1.14591286 10.0674861 1.14591286 9.15490179 2.97476082 8.74713847 2.90494991"></polygon>
+                <rect id="Path" fill="#F4F4F4" x="8" y="6.46153846" width="1" height="1.07692308"></rect>
+                <rect id="Path" fill="#F4F4F4" x="8" y="8.61538462" width="1" height="1.07692308"></rect>
+                <rect id="Path" fill="#F4F4F4" x="8" y="10.7692308" width="1" height="1.07692308"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

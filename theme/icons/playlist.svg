@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>playlist</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="12" height="13" rx="1"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12" height="13" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="playlist">
+            <g id="Group" transform="translate(3.000000, 2.000000)">
+                <use id="Rectangle" stroke="#C3C3C3" mask="url(#mask-2)" stroke-width="2" fill="#FFFFFF" xlink:href="#path-1"></use>
+                <rect id="Rectangle" fill="#737373" x="3" y="2" width="7" height="1" rx="0.5"></rect>
+                <rect id="Rectangle" fill="#737373" x="3" y="4" width="6" height="1" rx="0.5"></rect>
+                <rect id="Rectangle" fill="#737373" x="3" y="6" width="4" height="1" rx="0.5"></rect>
+                <rect id="Rectangle" fill="#737373" x="3" y="8" width="7" height="1" rx="0.5"></rect>
+                <rect id="Rectangle" fill="#737373" x="3" y="10" width="3" height="1" rx="0.5"></rect>
+            </g>
+            <g id="Group" transform="translate(1.000000, 1.000000)">
+                <circle id="Oval" fill="#E455AF" cx="3.5" cy="3.5" r="3.5"></circle>
+                <path d="M3.11163331,2.72465123 C3.39993424,2.25779069 3.87126493,2.26411026 4.15566334,2.72465123 L4.8205433,3.80132558 C5.10884423,4.26818612 4.89573804,4.64665137 4.3355854,4.64665137 L2.93171125,4.64665137 C2.37557546,4.64665137 2.16235494,4.26186655 2.44675334,3.80132558 L3.11163331,2.72465123 Z" id="Triangle-3" fill="#FFFAFA" transform="translate(3.634890, 3.511761) rotate(-270.000000) translate(-3.634890, -3.511761) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

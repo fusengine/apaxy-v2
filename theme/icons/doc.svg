@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>doc</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="doc">
+            <g id="Group" transform="translate(2.000000, 1.000000)">
+                <polygon id="Rectangle" fill="#55BDF2" points="0 0 9.85464471 0 12 2.23245162 12 14 0 14"></polygon>
+                <polygon id="Triangle" fill="#0B73A7" points="9.85040245 0.0338631498 11.9769074 2.21134718 9.85040245 2.21134718"></polygon>
+            </g>
+            <polygon id="W" fill="#FFFFFF" points="3.99658203 5.98925781 5.67534775 5.98925781 6.28048423 9.18672089 7.16281226 5.98925781 8.83767388 5.98925781 9.72390601 9.18672089 10.3290425 5.98925781 12 5.98925781 10.7389737 11.7126777 9.00555045 11.7126777 8.00219512 8.10918755 7.0027439 11.7126777 5.26932069 11.7126777"></polygon>
+        </g>
+    </g>
+</svg>

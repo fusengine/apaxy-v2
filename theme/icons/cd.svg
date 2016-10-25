@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>cd</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="7" cy="8" r="7"></circle>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="14" height="14" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="cd">
+            <g id="Group" transform="translate(1.000000, 0.000000)">
+                <use id="Oval" stroke="#979797" mask="url(#mask-2)" stroke-width="4" fill="#8B8C8E" xlink:href="#path-1"></use>
+                <path d="M4,2 C4,2 5.19490709,1.294802 7,1.294802 C8.80509291,1.294802 10,2 10,2 L7.31802799,8.03202096 L10,14 C10,14 8.78822097,14.7692399 7,14.7692399 C5.21177903,14.7692399 4,14 4,14 L6.68841661,8.03202096 L4,2 Z" id="Rectangle-2" fill="#FFFFFF" transform="translate(7.000000, 8.032021) rotate(24.000000) translate(-7.000000, -8.032021) "></path>
+                <circle id="Oval" fill="#DDDDDD" cx="7" cy="8" r="3"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

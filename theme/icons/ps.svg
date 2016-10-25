@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>ps</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="2" width="8" height="7"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="8" height="7" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect id="path-3" x="0" y="0" width="1" height="6"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="1" height="6" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <rect id="path-5" x="1" y="0" width="1" height="6"></rect>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="1" height="6" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ps">
+            <g id="Group" transform="translate(2.000000, 1.000000)">
+                <polygon id="Rectangle" fill="#EBEBEB" points="0 0 9.85464471 0 12 2.23245162 12 14 0 14"></polygon>
+                <polygon id="Triangle" fill="#909090" points="9.85040245 0.0338631498 11.9769074 2.21134718 9.85040245 2.21134718"></polygon>
+            </g>
+            <g id="Group" transform="translate(4.000000, 4.000000)">
+                <use id="Rectangle-7" stroke="#9B9B9B" mask="url(#mask-2)" stroke-width="2" fill="#C6DBF3" xlink:href="#path-1"></use>
+                <g id="Group-2" transform="translate(6.000000, 4.000000) rotate(-330.000000) translate(-6.000000, -4.000000) translate(5.000000, 0.000000)">
+                    <use id="Rectangle-2" stroke="#8B572A" mask="url(#mask-4)" stroke-width="2" fill="#D8D8D8" xlink:href="#path-3"></use>
+                    <use id="Rectangle-2" stroke="#BB9472" mask="url(#mask-6)" stroke-width="2" fill="#D8D8D8" xlink:href="#path-5"></use>
+                    <polygon id="Triangle" fill="#FCECDE" points="0 6 2 6 1 8"></polygon>
+                    <polygon id="Triangle" fill="#000000" points="0.52142334 7 1.4743042 7 1 7.99304199"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

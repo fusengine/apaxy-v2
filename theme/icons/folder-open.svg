@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>folder-open</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="1" width="14" height="13" rx="1"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="14" height="13" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="folder-open">
+            <g id="Group" transform="translate(1.000000, 1.000000)">
+                <rect id="Rectangle" fill="#2B6EBB" x="1" y="0" width="7.5" height="3" rx="1"></rect>
+                <use id="Rectangle" stroke="#4A92E6" mask="url(#mask-2)" stroke-width="2" fill="#4990E2" xlink:href="#path-1"></use>
+                <rect id="Rectangle" fill="#4990E2" x="0" y="3" width="14" height="11" rx="1"></rect>
+                <polygon id="Triangle" fill="#295C96" points="10.0045166 3.99932861 10.0045166 12.0074463 3.99633789 12.0074463 3.99633789 3.99932861"></polygon>
+                <polygon id="Triangle-2" fill="#163253" points="7 4 10 4 10 7"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

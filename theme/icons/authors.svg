@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>authors</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="authors" fill="#4990E2">
+            <g id="Group" transform="translate(1.000000, 1.000000)">
+                <circle id="Oval" cx="7" cy="4" r="4"></circle>
+                <path d="M1.33793188,10.4322204 C1.53105082,9.9172422 2.0996878,9.32112012 2.59932506,9.1045132 L4.83971326,8.13324142 L6.99204417,8.85391718 L9.19874182,8.13324142 L11.2818439,9.08234098 C11.7878366,9.31288058 12.3643203,9.91507429 12.5713952,10.4322204 L13.6266296,13.0675494 C13.8328364,13.5825276 13.5500512,14 12.9931545,14 L1.00684547,14 C0.450780073,14 0.155740859,13.5846956 0.349672775,13.0675494 L1.33793188,10.4322204 Z" id="Rectangle"></path>
+            </g>
+        </g>
+    </g>
+</svg>

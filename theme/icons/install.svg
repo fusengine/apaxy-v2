@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>install</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="14" height="13" rx="1"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="14" height="13" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <ellipse id="path-3" cx="4" cy="4.5" rx="4" ry="3.9375"></ellipse>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="8" height="7.875" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="install">
+            <g id="Group" transform="translate(1.000000, 2.000000)" stroke="#616161" stroke-width="2" fill="#616161">
+                <use id="Rectangle" mask="url(#mask-2)" xlink:href="#path-1"></use>
+            </g>
+            <g id="Group" transform="translate(6.000000, 6.000000)">
+                <use id="Oval" stroke="#979797" mask="url(#mask-4)" stroke-width="4" fill="#8B8C8E" xlink:href="#path-3"></use>
+                <path d="M2.28571429,1.125 C2.28571429,1.125 2.96851834,0.728326126 4,0.728326126 C5.03148166,0.728326126 5.71428571,1.125 5.71428571,1.125 L4.18173028,4.51801179 L5.71428571,7.875 C5.71428571,7.875 5.02184055,8.30769746 4,8.30769746 C2.97815945,8.30769746 2.28571429,7.875 2.28571429,7.875 L3.82195235,4.51801179 L2.28571429,1.125 Z" id="Rectangle-2" fill="#FFFFFF" transform="translate(4.000000, 4.518012) rotate(24.000000) translate(-4.000000, -4.518012) "></path>
+                <ellipse id="Oval" fill="#DDDDDD" cx="4" cy="4.5" rx="1.71428571" ry="1.6875"></ellipse>
+            </g>
+            <polygon id="+" fill="#7ED321" points="6.30664062 3.015625 6.30664062 5.53515625 8.82617188 5.53515625 8.82617188 6.9296875 6.30664062 6.9296875 6.30664062 9.4609375 4.91796875 9.4609375 4.91796875 6.9296875 2.38671875 6.9296875 2.38671875 5.53515625 4.91796875 5.53515625 4.91796875 3.015625"></polygon>
+        </g>
+    </g>
+</svg>

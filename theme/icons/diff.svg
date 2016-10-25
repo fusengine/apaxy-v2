@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>diff</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="diff">
+            <g id="Group" transform="translate(1.000000, 1.000000)" fill="#E8E8E8">
+                <rect id="Rectangle" x="0" y="0" width="14" height="14" rx="1"></rect>
+            </g>
+            <g id="Group-2" transform="translate(2.000000, 2.671050)">
+                <rect id="Rectangle-4" fill="#218982" x="0" y="0" width="1.2132879" height="1.21721576"></rect>
+                <rect id="Rectangle-4" fill="#218982" x="2.4265758" y="0" width="1.2132879" height="1.21721576"></rect>
+                <rect id="Rectangle-4" fill="#F6A623" x="4.8531516" y="0" width="1.2132879" height="1.21721576"></rect>
+                <rect id="Rectangle-4" fill="#F6A623" x="7.2797274" y="0" width="1.2132879" height="1.21721576"></rect>
+            </g>
+            <g id="Group-2" transform="translate(2.000000, 5.105481)">
+                <rect id="Rectangle-4" fill="#218982" x="0" y="0" width="1.2132879" height="1.21721576"></rect>
+                <rect id="Rectangle-4" fill="#218982" x="2.4265758" y="0" width="1.2132879" height="1.21721576"></rect>
+                <rect id="Rectangle-4" fill="#F6A623" x="4.8531516" y="0" width="1.2132879" height="1.21721576"></rect>
+                <rect id="Rectangle-4" fill="#F6A623" x="7.2797274" y="0" width="1.2132879" height="1.21721576"></rect>
+            </g>
+            <g id="Group-2" transform="translate(2.000000, 7.539913)">
+                <rect id="Rectangle-4" fill="#218982" x="0" y="0" width="1.2132879" height="1.21721576"></rect>
+                <rect id="Rectangle-4" fill="#218982" x="2.4265758" y="0" width="1.2132879" height="1.21721576"></rect>
+                <rect id="Rectangle-4" fill="#F6A623" x="8.4930153" y="0" width="1.2132879" height="1.21721576"></rect>
+                <rect id="Rectangle-4" fill="#BD0FE1" x="6.0664395" y="0" width="1.2132879" height="1.21721576"></rect>
+                <rect id="Rectangle-4" fill="#BD0FE1" x="4.8531516" y="0" width="1.2132879" height="1.21721576"></rect>
+                <rect id="Rectangle-4" fill="#F6A623" x="10.9195911" y="0" width="1.2132879" height="1.21721576"></rect>
+            </g>
+            <g id="Group-2" transform="translate(6.853152, 12.408776)">
+                <rect id="Rectangle-4" fill="#218982" x="0" y="0" width="1.2132879" height="1.21721576"></rect>
+                <rect id="Rectangle-4" fill="#218982" x="2.4265758" y="0" width="1.2132879" height="1.21721576"></rect>
+                <rect id="Rectangle-4" fill="#BD0FE1" x="6.0664395" y="0" width="1.2132879" height="1.21721576"></rect>
+                <rect id="Rectangle-4" fill="#BD0FE1" x="4.8531516" y="0" width="1.2132879" height="1.21721576"></rect>
+            </g>
+            <g id="Group-2" transform="translate(6.853152, 9.974345)">
+                <rect id="Rectangle-4" fill="#218982" x="0" y="0" width="1.2132879" height="1.21721576"></rect>
+                <rect id="Rectangle-4" fill="#218982" x="2.4265758" y="0" width="1.2132879" height="1.21721576"></rect>
+                <rect id="Rectangle-4" fill="#BD0FE1" x="6.0664395" y="0" width="1.2132879" height="1.21721576"></rect>
+                <rect id="Rectangle-4" fill="#BD0FE1" x="4.8531516" y="0" width="1.2132879" height="1.21721576"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

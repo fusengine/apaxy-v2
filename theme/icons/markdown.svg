@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>markdown</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="markdown">
+            <g id="Group" transform="translate(2.000000, 1.000000)">
+                <polygon id="Rectangle" fill="#CFBBE4" points="0 0 9.85464471 0 12 2.23245162 12 14 0 14"></polygon>
+                <polygon id="Triangle" fill="#9D73C9" points="9.85040245 0.0338631498 11.9769074 2.21134718 9.85040245 2.21134718"></polygon>
+            </g>
+            <g id="Group-2" transform="translate(3.000000, 6.000000)">
+                <polygon id="M" fill="#585858" points="0.778808594 0.625500247 2.71785068 0.625500247 3.46613873 3.15892443 4.21117336 0.625500247 6.14370859 0.625500247 6.14370859 4.78917721 4.93994085 4.78917721 4.93994085 1.6138765 4.0062075 4.78917721 2.91630968 4.78917721 1.98582976 1.6138765 1.98582976 4.78917721 0.778808594 4.78917721"></polygon>
+                <path d="M8.45074934,0.548933459 L9.93141981,2.20399897 L9.15293824,2.20399897 L9.15293824,4.77611904 L8.45074934,4.20383175 L7.7331597,4.77611904 C7.7331597,4.77611904 7.84776517,2.20399897 7.7331597,2.20399897 L6.97007888,2.20399897 L8.45074934,0.548933459 Z" id="Triangle-5" fill="#A458F4"></path>
+            </g>
+        </g>
+    </g>
+</svg>

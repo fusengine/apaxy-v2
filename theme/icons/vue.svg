@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>vue</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="vue">
+            <g id="Group" transform="translate(2.000000, 1.000000)">
+                <polygon id="Rectangle" fill="#DDDDDD" points="0 0 9.85464471 0 12 2.23245162 12 14 0 14"></polygon>
+                <polygon id="Triangle" fill="#696969" points="9.85040245 0.0338631498 11.9769074 2.21134718 9.85040245 2.21134718"></polygon>
+            </g>
+            <g id="Group" transform="translate(3.000000, 5.000000)">
+                <polygon id="Triangle-6" fill="#8AB858" transform="translate(5.000000, 4.072727) rotate(-180.000000) translate(-5.000000, -4.072727) " points="5 0.145454545 10 8 8.16504517 8 5 3.14783652 1.79893132 8 0 8"></polygon>
+                <polygon id="Triangle-6" fill="#273E4C" transform="translate(5.084122, 2.757443) rotate(-180.000000) translate(-5.084122, -2.757443) " points="5.16824411 0.133067752 8.34665526 5.38181818 6.67839776 5.38181818 5.16824411 3.13544973 3.5402305 5.38181818 1.82158885 5.38181818"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

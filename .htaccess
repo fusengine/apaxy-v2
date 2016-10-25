@@ -1,0 +1,86 @@
+
+# For a full breakdown of the mod_autoindex module:
+# http://apache.org/docs/2.2/mod/mod_autoindex.html
+#
+
+	# ENABLE INDEXING
+	Options +Indexes
+
+	# INDEX OPTIONS
+	IndexOptions +Charset=UTF-8 +FancyIndexing +IgnoreCase +FoldersFirst +XHTML +HTMLTable +SuppressRules +SuppressDescription +NameWidth=* +IconsAreLinks
+
+    	# META VIEWPORT
+    	IndexHeadInsert "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />"
+
+	# HIDE //theme DIRECTORY
+	IndexIgnore .htaccess /theme
+
+#
+# GENERAL ICONS (BLANK, DIRECTORY, PARENT DIRECTORY)
+#
+
+	AddIcon /theme/icons/blank.png ^^BLANKICON^^
+	AddIcon /theme/icons/folder.svg ^^DIRECTORY^^
+	AddIcon /theme/icons/folder-home.svg ..
+	
+	AddIconByType (TXT,/theme/icons/text.svg) text/*
+	AddIconByType (IMG,/theme/icons/image.svg) image/*
+	AddIconByType (SND,/theme/icons/audio.svg) audio/*
+	AddIconByType (VID,/theme/icons/video.svg) video/*
+
+#
+# EXTENSION SPECIFIC ICONS
+#
+
+	AddIcon /theme/icons/archive.svg .7z .bz2 .cab .tar .gzip .gz
+	AddIcon /theme/icons/audio.svg .aac .aif .aifc .aiff .ape .au .flac .iff .m4a .mid .mp3 .mpa .ra .wav .wma .f4a .f4b .oga .ogg .xm .it .s3m .mod
+	AddIcon /theme/icons/bin.svg .bin .hex
+	AddIcon /theme/icons/bmp.svg .bmp
+	AddIcon /theme/icons/c.svg .c
+	AddIcon /theme/icons/calc.svg .xlsx .xlsm .xltx .xltm .xlam .xlr .xls .csv
+	AddIcon /theme/icons/cd.svg .iso
+	AddIcon /theme/icons/cpp.svg .cpp
+	AddIcon /theme/icons/css.svg .css .sass .scss
+	AddIcon /theme/icons/deb.svg .deb
+	AddIcon /theme/icons/doc.svg .doc .docx .docm .dot .dotx .dotm .log .msg .odt .pages .rtf .tex .wpd .wps
+	AddIcon /theme/icons/draw.svg .svg .svgz
+	AddIcon /theme/icons/eps.svg .ai .eps
+	AddIcon /theme/icons/exe.svg .exe
+	AddIcon /theme/icons/gif.svg .gif
+	AddIcon /theme/icons/h.svg .h
+	AddIcon /theme/icons/html.svg .html .xhtml .shtml .htm .URL .url
+	AddIcon /theme/icons/ico.svg .ico
+	AddIcon /theme/icons/java.svg .jar
+	AddIcon /theme/icons/jpg.svg .jpg .jpeg .jpe
+	AddIcon /theme/icons/js.svg .js .json
+	AddIcon /theme/icons/vue.svg .vue
+	AddIcon /theme/icons/ts.svg .ts
+	AddIcon /theme/icons/markdown.svg .md
+	AddIcon /theme/icons/package.svg .pkg .dmg
+	AddIcon /theme/icons/pdf.svg .pdf
+	AddIcon /theme/icons/php.svg .php .phtml
+	AddIcon /theme/icons/playlist.svg .m3u .m3u8 .pls .pls8
+	AddIcon /theme/icons/png.svg .svg
+	AddIcon /theme/icons/ps.svg .ps
+	AddIcon /theme/icons/psd.svg .psd
+	AddIcon /theme/icons/py.svg .py
+	AddIcon /theme/icons/rar.svg .rar
+	AddIcon /theme/icons/rb.svg .rb
+	AddIcon /theme/icons/rpm.svg .rpm
+	AddIcon /theme/icons/rss.svg .rss
+	AddIcon /theme/icons/script.svg .bat .cmd .sh
+	AddIcon /theme/icons/sql.svg .sql
+	AddIcon /theme/icons/tiff.svg .tiff .tif
+	AddIcon /theme/icons/text.svg .txt .nfo
+	AddIcon /theme/icons/video.svg .asf .asx .avi .flv .mkv .mov .mp4 .mpg .rm .srt .swf .vob .wmv .m4v .f4v .f4p .ogv
+	AddIcon /theme/icons/xml.svg .xml
+	AddIcon /theme/icons/zip.svg .zip
+	DefaultIcon /theme/icons/default.svg
+
+#
+# /theme FILES
+#
+
+	HeaderName /theme/header.html
+	ReadmeName /theme/footer.html
+	IndexStyleSheet /theme/style.css
