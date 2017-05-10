@@ -19,7 +19,7 @@
 # GENERAL ICONS (BLANK, DIRECTORY, PARENT DIRECTORY)
 #
 
-	AddIcon /theme/icons/blank.png ^^BLANKICON^^
+	AddIcon /theme/icons/blank.svg ^^BLANKICON^^
 	AddIcon /theme/icons/folder.svg ^^DIRECTORY^^
 	AddIcon /theme/icons/folder-home.svg ..
 	
