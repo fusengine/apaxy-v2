@@ -15,10 +15,12 @@
 }
 
 html {
+	background: #263959;
 	min-height:100%;
 	border-top:10px solid #8EC0E4;
 	border-bottom:10px solid #8EC0E4;
-	color:#61666c;
+	/*color:#61666c;*/
+	color: #dae9f4;
 	font-weight:400;
 	font-size:1em;
 	font-family:'Open Sans', sans-serif;
@@ -32,7 +34,7 @@ code {
 	font-family:consolas,monospace;	
 }
 a {
-	color:#61666c;
+	color:#FFF;
 	text-decoration:none;
 }
 img {
@@ -66,7 +68,7 @@ a:hover {
 	font-size:.875em;
 	margin:20px 0;
 	padding:20px;
-	color:#9099A3;
+	color: #dae9f4
 }
 /*------------------------------------*\
     Table (directory listing)
@@ -120,7 +122,8 @@ td a{
 	display: block;
 }
 tr.parent a[href^="/"] {
-	color:#9099A3;
+	/*color:#9099A3;*/
+	color:#ffda8e;
 }
 	.parent a[href^="/"]:hover {
 		color:#2281d0;

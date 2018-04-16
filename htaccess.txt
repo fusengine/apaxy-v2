@@ -54,11 +54,11 @@
 	AddIcon /theme/icons/java.svg .jar
 	AddIcon /theme/icons/jpg.svg .jpg .jpeg .jpe
 	AddIcon /theme/icons/js.svg .js
-	AddIcon /theme/icons/playlist.svg .playlist
+	AddIcon /theme/icons/erlang.svg .erl
 	AddIcon /theme/icons/json.svg .json
 	AddIcon /theme/icons/vue.svg .vue
 	AddIcon /theme/icons/ts.svg .ts
-	AddIcon /theme/icons/markdown.svg .md
+	AddIcon /theme/icons/markdown.svg .md .markdown
 	AddIcon /theme/icons/package.svg .pkg .dmg
 	AddIcon /theme/icons/pdf.svg .pdf
 	AddIcon /theme/icons/php.svg .php .phtml
