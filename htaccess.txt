@@ -53,7 +53,9 @@
 	AddIcon /theme/icons/ico.svg .ico
 	AddIcon /theme/icons/java.svg .jar
 	AddIcon /theme/icons/jpg.svg .jpg .jpeg .jpe
-	AddIcon /theme/icons/js.svg .js .json
+	AddIcon /theme/icons/js.svg .js
+	AddIcon /theme/icons/playlist.svg .playlist
+	AddIcon /theme/icons/json.svg .json
 	AddIcon /theme/icons/vue.svg .vue
 	AddIcon /theme/icons/ts.svg .ts
 	AddIcon /theme/icons/markdown.svg .md
