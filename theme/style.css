@@ -15,7 +15,7 @@
 }
 
 html {
-	background: #263959;
+	background: #1e2022;
 	min-height:100%;
 	border-top:10px solid #8EC0E4;
 	border-bottom:10px solid #8EC0E4;
@@ -83,7 +83,7 @@ tr {
 	border:0;
 }
 tr:hover td {
-	background:#d6ecfa;
+	background:#00dffc;
 }
 th {
 	text-align:left;
