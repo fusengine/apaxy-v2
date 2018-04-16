@@ -37,6 +37,7 @@
 	AddIcon /theme/icons/bin.svg .bin .hex
 	AddIcon /theme/icons/bmp.svg .bmp
 	AddIcon /theme/icons/c.svg .c
+	AddIcon /theme/icons/go.svg .go
 	AddIcon /theme/icons/calc.svg .xlsx .xlsm .xltx .xltm .xlam .xlr .xls .csv
 	AddIcon /theme/icons/cd.svg .iso
 	AddIcon /theme/icons/cpp.svg .cpp

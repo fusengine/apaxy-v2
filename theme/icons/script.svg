@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+<svg width="81px" height="93px" viewBox="0 0 81 93" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
     <title>script</title>
     <desc>Created with Sketch.</desc>
-    <defs>
-        <rect id="path-1" x="0" y="0" width="14" height="14" rx="1"></rect>
-        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="14" height="14" fill="white">
-            <use xlink:href="#path-1"></use>
-        </mask>
-    </defs>
+    <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="script">
-            <g id="Group" transform="translate(1.000000, 1.000000)">
-                <use id="Rectangle" stroke="#7ED321" mask="url(#mask-2)" stroke-width="2" fill="#2F363E" xlink:href="#path-1"></use>
-                <path d="M6.269,6.51215385 L3.231,8.17815385 L3.231,7.20569231 L5.31,6.09753846 L3.238,4.98938462 L3.231,4.02446154 L6.269,5.69046154 L6.269,6.51215385 Z M6.5,9.84415385 L6.5,8.96215385 L10,8.96215385 L10,9.84415385 L6.5,9.84415385 Z" id="&gt;_" fill="#FFFFFF"></path>
+        <g id="png" transform="translate(-378.000000, -659.000000)">
+            <g id="files" transform="translate(43.000000, 230.000000)">
+                <g id="script" transform="translate(335.000000, 429.000000)">
+                    <path d="M13,0 L65.7339131,0 L81,18.640625 L81,90 C81,91.6568542 79.6568542,93 78,93 L13,93 C11.3431458,93 10,91.6568542 10,90 L10,3 C10,1.34314575 11.3431458,3.04359188e-16 13,0 Z" id="Rectangle-2" fill="#E6F2FF"></path>
+                    <path d="M66.1679688,0.083984375 L66.1679688,15.6293945 C66.1679688,17.2862488 67.5111145,18.6293945 69.1679688,18.6293945 L81.0048828,18.6293945 L66.1679688,0.083984375 Z" id="Rectangle-2-Copy" fill="#AEC3DA"></path>
+                    <rect id="Rectangle-3" fill="#2F363F" x="0" y="53" width="66" height="32" rx="3"></rect>
+                    <path d="M20,69.55 L27.925,66.45 L27.925,66.4 L20,63.3 L20,59.9 L32.65,64.85 L32.65,68 L20,72.95 L20,69.55 Z M34.65,77.125 L34.65,75.875 L47.15,75.875 L47.15,77.125 L34.65,77.125 Z" id="&gt;_" fill="#FFFFFF"></path>
+                </g>
             </g>
         </g>
     </g>
