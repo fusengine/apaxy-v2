@@ -36,8 +36,11 @@ a {
 	text-decoration:none;
 }
 a, img {
+		width:28px;
+		height: auto;
         border:none;
-        outline:none
+		outline:none
+		
 }
 a:hover {
 	color:#2a2a2a;
