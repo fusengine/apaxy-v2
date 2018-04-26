@@ -13,7 +13,7 @@
     	IndexHeadInsert "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />"
 
 	# HIDE //theme DIRECTORY
-	IndexIgnore .htaccess .DS_Store /theme /@eaDir
+	IndexIgnore .htaccess .DS_Store /theme /@eaDir .sync Icon?
 
 #
 # GENERAL ICONS (BLANK, DIRECTORY, PARENT DIRECTORY)
