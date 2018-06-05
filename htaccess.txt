@@ -24,7 +24,7 @@
 	AddIcon /theme/icons/folder-home.svg ..
 	
 	AddIconByType (TXT,/theme/icons/text.svg) text/*
-	AddIconByType (IMG,/theme/icons/image.svg) image/*
+	AddIconByType (IMG,/theme/icons/jpg.svg) image/*
 	AddIconByType (SND,/theme/icons/audio.svg) audio/*
 	AddIconByType (VID,/theme/icons/video.svg) video/*
 
