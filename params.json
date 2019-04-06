@@ -1,6 +1,0 @@
-{
-  "name": "Apaxy-v2",
-  "tagline": "",
-  "body": "Apaxy is a customisable theme built to enhance the experience of browsing web directories. It uses the mod_autoindex Apache module—and some CSS—to override the default style of a directory listing.\r\n\r\nApaxy may be basic, but it gives you a great deal of creative freedom when styling your directory.\r\n\r\nStyle your directory listing with CSS.\r\nMake it pop with Javascript or jQuery.\r\nAdd welcome messages, download instructions or copyright notices.\r\nAdd custom mime type icons (requires editing the .htaccess file).",
-  "note": "Don't delete this file! It's used internally to help with page regeneration."
-}

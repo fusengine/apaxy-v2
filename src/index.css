@@ -1,0 +1,104 @@
+body {
+  background-color: rgb(30,32,34);
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Roboto", 'Open Sans', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+.margintop{
+  margin-top: 100px;
+}
+h6{
+  color: white;
+}
+/** Link */
+a {
+  color: gray;
+}
+a:hover{
+  color: white;
+  text-decoration: none;
+}
+/** Footer */
+.pink{
+  height: 15px;
+  background: rgb(223,94,133);
+}
+/** Github + Docker */
+.dev {
+  width:20px;
+  color: white;
+}
+.nav-link img{
+  transition: 0.5s cubic-bezier(0.2, 0.8, 0.2, 1);
+}
+.nav-link img:hover{
+  transform: translateY(-5px);
+}
+@media (max-width: 400px){
+  .dev{
+      width: 15px;
+  }
+}
+/** Logo Navbar */
+.logo{
+  min-width: 100px;
+  max-height: 400px;
+}
+/** Logo Apaxy page */
+.logo2{
+  width: 180px;
+  animation: LogoAnimation 3s 0.2s forwards cubic-bezier(0.2, 0.8, 0.2, 1);
+  opacity: 0;
+}
+@keyframes LogoAnimation {
+  0%{
+      opacity: 0;
+      transform: translateY(-15px);
+  }
+  100%{
+      opacity: 1;
+      transform: translateY(0px);
+  }
+}
+/** Icone animation */
+.icons{
+  animation: IconAnimation 3s 0.2s forwards cubic-bezier(0.2, 0.8, 0.2, 1);
+  opacity: 0;
+}
+@keyframes IconAnimation {
+  0%{
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  100%{
+    opacity: 1;
+    transform: translateY(0px);
+  }
+}
+/** Screenshot Animation */
+.screenshot{
+  width: 100%;
+  animation: ScreenshotAnimation 3s 0.2s forwards cubic-bezier(0.2, 0.8, 0.2, 1);
+  opacity: 0;
+}
+@keyframes ScreenshotAnimation {
+  0%{
+      opacity: 0;
+      transform: translateY(15px);
+  }
+  100%{
+      opacity: 1;
+      transform: translateY(0px);
+  }
+}
+/** Documentation */
+.doc{
+  color: white;
+}
