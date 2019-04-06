@@ -1,4 +1,4 @@
-![Alt text](http://www.fusengine.ch/img/apaxy-v2.svg)
+![Alt text](https://cdn.fusengine.ch/docker/apaxy-v2.svg)
 ========================================================
 
 ## apaxy v2 News icons
