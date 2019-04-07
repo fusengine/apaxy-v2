@@ -19,7 +19,7 @@ class Icon extends Component {
 					<div className="container">
 						<div className="row align-items-end">
 							{brunoIcons.icons.map((icon, index) => (
-								<div className="col-auto">
+								<div className="col-auto" key={index}>
 									{/* Grid of all the icons */}
 									<IconGrid
 										image={require(`../../images/icons/${icon.image}`)}

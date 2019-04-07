@@ -41,7 +41,7 @@ class App extends Component {
 					<Switch>
 						<Route path="/apaxy-v2" component={Apaxy} />
 						<Route path="/icon" component={Icon} />
-						{/*<Route path="/doc" component={Doc} />*/}
+						<Route path="/doc" component={Doc} />
 						<Route path="https://hub.docker.com/r/fusengine/apaxy" />
 						<Route path="https://github.com/fusengine/apaxy-v2" />
 						{/* <Route path="/test" render={()=> { return(<h1>Test</h1>)}}></Route> */}

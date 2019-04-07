@@ -15,11 +15,11 @@ class NavBarLink extends Component {
 							Icon
 						</NavLink>
 					</li>
-					{/*<li className="nav-item">
+					<li className="nav-item">
 						<NavLink className="nav-link" to="/doc">
 							Doc
 						</NavLink>
-					</li>*/}
+					</li>
 				</ul>
 				<ul className="my-auto">
 					<li className="nav-item  d-inline-block">
