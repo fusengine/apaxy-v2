@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "731a048a47cae7911373",
+    "revision": "a699e9504a36ba4c05f6",
     "url": "/apaxy-v2/static/css/main.9e407a19.chunk.css"
   },
   {
-    "revision": "731a048a47cae7911373",
-    "url": "/apaxy-v2/static/js/main.96c20614.chunk.js"
+    "revision": "a699e9504a36ba4c05f6",
+    "url": "/apaxy-v2/static/js/main.fa6da6c5.chunk.js"
   },
   {
     "revision": "2dff6239730de32c82e9",
@@ -348,7 +348,7 @@ self.__precacheManifest = [
     "url": "/apaxy-v2/static/media/zip.e7a9faa0.svg"
   },
   {
-    "revision": "782fd33c3d33c4a07c5c90ab1e9e9f19",
+    "revision": "4ea1dd9c77b70c19b13350d2886b85cb",
     "url": "/apaxy-v2/index.html"
   }
 ];
