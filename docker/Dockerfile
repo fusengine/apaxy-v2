@@ -3,6 +3,7 @@ ARG IMAGE=fuseboat/alpine
 ARG VERSION=latest
 
 FROM $IMAGE:$VERSION
+
 LABEL maintainer="Fusengine <info@fusengine.ch>"
 
 # Define Config
@@ -30,6 +31,7 @@ VOLUME ["/etc/apache2/vhost.d", "/var/log/apache2", "/app/web"]
 # WORKDIR
 WORKDIR /app/web
 
+# Port
 EXPOSE 80
 
 CMD ["/.httpd"]
